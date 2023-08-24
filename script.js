@@ -1,5 +1,10 @@
 //your code here
-  document.getElementById("open-modal").addEventListener("click", function () {
-    var myModal = new bootstrap.Modal(document.getElementById("newton-modal"));
-    myModal.show();
-  });
+const openModal = document.getElementById("open-modal");
+const newtonModal = document.getElementById('newton-modal');
+
+openModal.addEventListener("click",()=>{
+
+	newtonModal.show();
+
+	
+})
