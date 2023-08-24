@@ -1,10 +1,10 @@
 //your code here
-const openModal = document.getElementById("open-modal");
-const newtonModal = document.getElementById('newton-modal');
+// const openModal = document.getElementById("open-modal");
+// const newtonModal = document.getElementById('newton-modal');
 
-openModal.addEventListener("click",()=>{
+// openModal.addEventListener("click",()=>{
 
-	newtonModal.show();
+// 	newtonModal.show();
 
 	
-})
+// })
